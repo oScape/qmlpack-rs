@@ -1,7 +1,5 @@
 # Welcome to qmlpack-rs
 
----
-
 Qmlpack is a static module bundler. It's a module bundler for QML files, to mix then in one file. &#34;One file to rules them all&#34;.
 
 ## Try it!
