@@ -4,7 +4,7 @@ use std::fs::File;
 
 fn main() {
     let output = Command::new("./bin/qml-parser")
-        .arg("./sandbox/new.qml")
+        .arg("./sandbox/1/new.qml")
         .output()
         .expect("bin command failed to start");
 
